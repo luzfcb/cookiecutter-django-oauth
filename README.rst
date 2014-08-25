@@ -1,5 +1,9 @@
-cookiecutter-django
-=======================
+cookiecutter-django-oauth
+=========================
+
+**STILL IN ALPHA not use in a production environment**
+
+This is a fork of @pydanny cookiecutter-django included pre configured oauth server provided by django-oauth-toolkit and django-restframework
 
 .. image:: https://requires.io/github/pydanny/cookiecutter-django/requirements.png?branch=master
      :target: https://requires.io/github/pydanny/cookiecutter-django/requirements/?branch=master
@@ -13,6 +17,7 @@ Features
 ---------
 
 * For Django 1.6
+* Oauth2 Server provided by django-oauth-toolkit_ and django-restframework_ - To manage API authentication and authorization
 * Twitter Bootstrap_ 3
 * AngularJS_
 * Settings management via django-configurations_
@@ -31,7 +36,8 @@ Features
 .. _django-avatar: https://github.com/jezdez/django-avatar/
 .. _Procfile: https://devcenter.heroku.com/articles/procfile
 .. _SendGrid: https://sendgrid.com/
-
+.. _django-oauth-toolkit: https://github.com/evonove/django-oauth-toolkit
+.. _django-restframework: https://github.com/tomchristie/django-rest-framework
 
 Constraints
 -----------

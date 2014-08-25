@@ -33,5 +33,9 @@ django-autoslug==1.7.2
 # Useful things
 django-avatar==2.0
 
+# RESTFull API and OAuth Server
+djangorestframework==2.3.14
+django-oauth-toolkit==0.7.2
+
 
 # Your custom requirements go here
