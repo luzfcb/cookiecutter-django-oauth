@@ -5,8 +5,8 @@ cookiecutter-django-oauth
 
 This is a fork of @pydanny cookiecutter-django included pre configured oauth server provided by django-oauth-toolkit and django-restframework
 
-.. image:: https://requires.io/github/pydanny/cookiecutter-django/requirements.png?branch=master
-     :target: https://requires.io/github/pydanny/cookiecutter-django/requirements/?branch=master
+.. image:: https://requires.io/github/luzfcb/cookiecutter-django-oauth/requirements.png?branch=master
+     :target: https://requires.io/github/luzfcb/cookiecutter-django-oauth/requirements/?branch=master
      :alt: Requirements Status
 
 A cookiecutter_ template for Django.
@@ -17,7 +17,7 @@ Features
 ---------
 
 * For Django 1.6
-* Oauth2 Server provided by django-oauth-toolkit_ and django-restframework_ - To manage API authentication and authorization
+* Oauth2 Server provided by django-oauth-toolkit_ and django-restframework_ - To manage RESTFull API authentication and authorization
 * Twitter Bootstrap_ 3
 * AngularJS_
 * Settings management via django-configurations_
@@ -59,7 +59,7 @@ First, get cookiecutter. Trust me, it's awesome::
 
 Now run it against this repo::
 
-    $ cookiecutter https://github.com/pydanny/cookiecutter-django.git
+    $ cookiecutter https://github.com/luzfcb/cookiecutter-django-oauth.git
 
 You'll be prompted for some questions, answer them, then it will create a Django project for you.
 
@@ -68,7 +68,7 @@ You'll be prompted for some questions, answer them, then it will create a Django
 
 It prompts you for questions. Answer them::
 
-    Cloning into 'cookiecutter-django'...
+    Cloning into 'cookiecutter-django-oauth'...
     remote: Counting objects: 550, done.
     remote: Compressing objects: 100% (310/310), done.
     remote: Total 550 (delta 283), reused 479 (delta 222)
@@ -151,7 +151,7 @@ Scattered throughout the Python and HTML of this project are places marked with 
 Releases
 --------
 
-Want a stable release? You can find them at https://github.com/pydanny/cookiecutter-django/releases
+Want a stable release? You can find them at https://github.com/luzfcb/cookiecutter-django-oauth/releases
 
 **note**: Cookiecutter won't support tagged releases until 0.7.0 comes out, which should be any day! Which means, if you want to use a
 tagged release of cookiecutter-django, then you have to install Cookiecutter directly from GitHub. To do that, follow these steps:
