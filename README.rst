@@ -3,7 +3,7 @@ cookiecutter-django-oauth
 
 **STILL IN ALPHA not use in a production environment**
 
-This is a fork of @pydanny cookiecutter-django included pre configured oauth server provided by django-oauth-toolkit and django-restframework
+This is a fork of @pydanny_ cookiecutter-django_ included pre configured Oauth Server provided by django-oauth-toolkit and django-restframework
 
 .. image:: https://requires.io/github/luzfcb/cookiecutter-django-oauth/requirements.png?branch=master
      :target: https://requires.io/github/luzfcb/cookiecutter-django-oauth/requirements/?branch=master
@@ -29,6 +29,7 @@ Features
 * Grunt build for compass and livereload
 * Basic e-mail configurations for send emails via SendGrid_
 
+.. _@pydanny: https://github.com/pydanny
 .. _Bootstrap: https://github.com/twbs/bootstrap
 .. _AngularJS: https://github.com/angular/angular.js
 .. _django-configurations: https://github.com/jezdez/django-configurations
@@ -38,7 +39,7 @@ Features
 .. _SendGrid: https://sendgrid.com/
 .. _django-oauth-toolkit: https://github.com/evonove/django-oauth-toolkit
 .. _django-restframework: https://github.com/tomchristie/django-rest-framework
-
+.. _cookiecutter-django: https://github.com/pydanny/cookiecutter-django
 Constraints
 -----------
 
