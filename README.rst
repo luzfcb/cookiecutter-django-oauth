@@ -3,6 +3,8 @@ cookiecutter-django-oauth
 
 **STILL IN ALPHA not use in a production environment**
 
+**I started doing this library, however I do not have time to finish it. Currently she simply does NOT work**
+
 This is a fork of @pydanny_ cookiecutter-django_ included pre configured Oauth Server provided by django-oauth-toolkit and django-restframework
 
 .. image:: https://requires.io/github/luzfcb/cookiecutter-django-oauth/requirements.png?branch=master
